@@ -1,6 +1,6 @@
 default:
   outputs:
-    test: # Keypair config
+    prod: # Keypair config
       type: snowflake
       account: xk23394.eu-west-1
       user: DBT_EXAMPLE
