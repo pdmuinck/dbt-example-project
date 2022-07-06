@@ -5,7 +5,7 @@ default:
       account: xk23394.eu-west-1
       user: DBT_EXAMPLE
       role: DBT_EXAMPLE_ROLE
-      password: "{{ env_var('DBT_PASSWORD') }}"
+      password: "kjfeoiveklnii93A3%"
       database: DBT_EXAMPLE_DB
       warehouse: COMPUTE_WH
       schema: DBT_SCHEMA
