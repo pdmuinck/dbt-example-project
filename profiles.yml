@@ -5,9 +5,10 @@ default:
       account: xk23394.eu-west-1
       user: DBT_EXAMPLE
       role: DBT_EXAMPLE_ROLE
-      password: "kjfeoiveklnii93A3%"
+      password: kjfeoiveklnii93A3%
       database: DBT_EXAMPLE_DB
       warehouse: COMPUTE_WH
       schema: DBT_SCHEMA
       threads: 1
       client_session_keep_alive: False
+
